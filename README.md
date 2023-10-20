@@ -48,8 +48,8 @@ This is the 42 C++ pool, created to make students learn C++ using C++98
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- USAGE EXAMPLES -->
-## Usage
 
+## Usage
 To execute : 
 ```sh
 make
