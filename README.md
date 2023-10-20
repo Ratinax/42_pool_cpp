@@ -34,7 +34,7 @@ This is the 42 C++ pool, created to make students learn C++ using C++98
 
 ### Built With
 
-[C++](https://linuxconfig.org/how-to-install-g-the-c-compiler-on-ubuntu-18-04-bionic-beaver-linux)
+![C++](https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -44,7 +44,7 @@ This is the 42 C++ pool, created to make students learn C++ using C++98
 ## Getting Started
 ### Prerequisites
 
-* [C++ installation]
+* [C++ installation](https://linuxconfig.org/how-to-install-g-the-c-compiler-on-ubuntu-18-04-bionic-beaver-linux)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- USAGE EXAMPLES -->
